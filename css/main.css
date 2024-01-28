@@ -1,0 +1,8 @@
+div{
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    margin: 50px auto;
+    cursor: pointer;
+    transition: 500ms;
+}
